@@ -23,7 +23,7 @@ function renderSkills() {
             title: "JAVASCRIPT",
             alt: "javascript",
             svg: "public/javascript.svg",
-            skill: intermediate
+            skill: beginner
         },
         {
             title: "TYPESCRIPT",
@@ -35,7 +35,7 @@ function renderSkills() {
             title: "HTML5",
             alt: "html5",
             svg: "public/html5.svg",
-            skill: advanced
+            skill: intermediate
         },
         {
             title: "CSS3",
@@ -80,19 +80,19 @@ function renderSkills() {
             title: "GIT",
             alt: "git",
             svg: "public/git.svg",
-            skill: beginner
+            skill: intermediate
         },
         {
             title: "GITHUB",
             alt: "github",
             svg: "public/github.svg",
-            skill: beginner
+            skill: intermediate
         },
         {
             title: "FIGMA",
             alt: "figma",
             svg: "public/figma.svg",
-            skill: beginner
+            skill: intermediate
         },
         {
             title: "POSTMAN",
